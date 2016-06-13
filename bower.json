@@ -1,0 +1,21 @@
+{
+  "name": "raymond-luxury-yacht",
+  "description": "It's pronounced THROAT WOBBLER MANGROVE!",
+  "main": "index.js",
+  "authors": [
+    "Don Livingston"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dlivingston/raymond-luxury-yacht",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
